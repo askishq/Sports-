@@ -1,0 +1,24 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/T1bPHZqJ/20250719-112917.jpg" group-title="News",T Sports 
+https://tvsen7.aynascope.net/tsports-hd/tracks-v1a1/mono.ts.m3u8?e=1774330298&token=171c97ea86621c20be681ccd3c11b169&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
+
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/tgZZWkZW/images-2-11.jpg" group-title="News",A Sports 
+https://tvsen6.aynascope.net/asports/tracks-a1/mono.ts.m3u8?e=1774330803&token=ad054410fc6fa2fb6b927a7e6cf7383c&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
+
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/KY6KNTBV/unnamed-3.png" group-title="News",PTV Sports
+https://tvsen5.aynascope.net/PtvSports/tracks-v1a1/mono.ts.m3u8?e=1774330848&token=005fc306f2a50d22746c2678c8351fda&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
+
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/C5NzS6XT/image.jpg" group-title="News",Willow Sports
+https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8?e=1774330886&token=ff6b4ac11b8fdf8e72f46674a4dc7f07&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
+
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/qRpd6z5H/20250719-172453.jpg" group-title="News",Star Sports 1
+https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/tracks-v1a1/mono.ts.m3u8?e=1774330927&token=18d8fa7f95f7312150dd74cdef743e54&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
+
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="News",Star Sports 2
+https://tvsen5.aynascope.net/cXPB2LKkErN9/tracks-v1a1/mono.ts.m3u8?e=1774330992&token=72135783ae4f8317aa8c2c83ca5c8948&u=ee5437a7-c16b-4700-b317-a41b77d5cba9

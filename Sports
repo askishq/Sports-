@@ -6,20 +6,20 @@ http://103.179.25.147:8181/T-SPORTS/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/tgZZWkZW/images-2-11.jpg" group-title="News",A Sports 
-https://tvsen6.aynascope.net/asports/tracks-a1/mono.ts.m3u8
+https://tvsen6.aynaott.com/asports/tracks-a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/KY6KNTBV/unnamed-3.png" group-title="News",PTV Sports
-https://tvsen5.aynascope.net/PtvSports/tracks-v1a1/mono.ts.m3u8
+https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/C5NzS6XT/image.jpg" group-title="News",Willow Sports
-https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/qRpd6z5H/20250719-172453.jpg" group-title="News",Star Sports 1
-https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/tracks-v1a1/mono.ts.m3u8
+https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="News",Star Sports 2
-https://tvsen5.aynascope.net/cXPB2LKkErN9/tracks-v1a1/mono.ts.m3u8
+https://tvsen5.aynaott.com/cXPB2LKkErN9/tracks-v1a1/mono.ts.m3u8
